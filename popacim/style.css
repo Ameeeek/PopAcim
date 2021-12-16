@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+main{
+    margin-top: 2rem;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+i{
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.link a:visited{
+    color: black;
+}
+.link{
+    color:black;
+    display:flex;
+    margin-top: 5rem;
+    padding: 1rem;
+    font-size: 3rem;
+    flex-direction: row;
+    text-align: center;
+    justify-content:center;
+}
+.head{
+    font-size: 24px;
+    font-family:'manrope', sans-serif;
+}
